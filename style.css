@@ -1,0 +1,465 @@
+@keyframes duck-fly-1 {
+  0% {
+    left: -55px;
+    top: 19vh;
+  }
+  50% {
+    left: 50%;
+    top: 40vh;
+  }
+  100% {
+    left: 105%;
+    top: 45vh;
+  }
+}
+@keyframes duck-fly-2 {
+  0% {
+    left: -55px;
+    top: 59vh;
+  }
+  50% {
+    left: 50%;
+    top: 3vh;
+  }
+  100% {
+    left: 105%;
+    top: 20vh;
+  }
+}
+@keyframes duck-fly-3 {
+  0% {
+    left: -55px;
+    top: 52vh;
+  }
+  50% {
+    left: 50%;
+    top: 24vh;
+  }
+  100% {
+    left: 105%;
+    top: 59vh;
+  }
+}
+@keyframes duck-fly-4 {
+  0% {
+    left: -55px;
+    top: 47vh;
+  }
+  50% {
+    left: 50%;
+    top: 19vh;
+  }
+  100% {
+    left: 105%;
+    top: 11vh;
+  }
+}
+@keyframes duck-fly-5 {
+  0% {
+    left: -55px;
+    top: 26vh;
+  }
+  50% {
+    left: 50%;
+    top: 3vh;
+  }
+  100% {
+    left: 105%;
+    top: 21vh;
+  }
+}
+@keyframes duck-fly-6 {
+  0% {
+    left: -55px;
+    top: 38vh;
+  }
+  50% {
+    left: 50%;
+    top: 47vh;
+  }
+  100% {
+    left: 105%;
+    top: 25vh;
+  }
+}
+@keyframes duck-fly-7 {
+  0% {
+    left: -55px;
+    top: 53vh;
+  }
+  50% {
+    left: 50%;
+    top: 35vh;
+  }
+  100% {
+    left: 105%;
+    top: 14vh;
+  }
+}
+@keyframes duck-fly-8 {
+  0% {
+    left: -55px;
+    top: 23vh;
+  }
+  50% {
+    left: 50%;
+    top: 3vh;
+  }
+  100% {
+    left: 105%;
+    top: 2vh;
+  }
+}
+@keyframes duck-fly-9 {
+  0% {
+    left: -55px;
+    top: 71vh;
+  }
+  50% {
+    left: 50%;
+    top: 35vh;
+  }
+  100% {
+    left: 105%;
+    top: 38vh;
+  }
+}
+@keyframes duck-fly-10 {
+  0% {
+    left: -55px;
+    top: 50vh;
+  }
+  50% {
+    left: 50%;
+    top: 3vh;
+  }
+  100% {
+    left: 105%;
+    top: 42vh;
+  }
+}
+@keyframes duck-fly-11 {
+  0% {
+    left: -55px;
+    top: 42vh;
+  }
+  50% {
+    left: 50%;
+    top: 9vh;
+  }
+  100% {
+    left: 105%;
+    top: 38vh;
+  }
+}
+@keyframes duck-fly-12 {
+  0% {
+    left: -55px;
+    top: 8vh;
+  }
+  50% {
+    left: 50%;
+    top: 17vh;
+  }
+  100% {
+    left: 105%;
+    top: 32vh;
+  }
+}
+@keyframes duck-fly-13 {
+  0% {
+    left: -55px;
+    top: 31vh;
+  }
+  50% {
+    left: 50%;
+    top: 52vh;
+  }
+  100% {
+    left: 105%;
+    top: 56vh;
+  }
+}
+@keyframes duck-fly-14 {
+  0% {
+    left: -55px;
+    top: 43vh;
+  }
+  50% {
+    left: 50%;
+    top: 36vh;
+  }
+  100% {
+    left: 105%;
+    top: 2vh;
+  }
+}
+@keyframes duck-fly-15 {
+  0% {
+    left: -55px;
+    top: 25vh;
+  }
+  50% {
+    left: 50%;
+    top: 74vh;
+  }
+  100% {
+    left: 105%;
+    top: 1vh;
+  }
+}
+@keyframes duck-fly-16 {
+  0% {
+    left: -55px;
+    top: 68vh;
+  }
+  50% {
+    left: 50%;
+    top: 38vh;
+  }
+  100% {
+    left: 105%;
+    top: 36vh;
+  }
+}
+@keyframes duck-fly-17 {
+  0% {
+    left: -55px;
+    top: 5vh;
+  }
+  50% {
+    left: 50%;
+    top: 67vh;
+  }
+  100% {
+    left: 105%;
+    top: 35vh;
+  }
+}
+@keyframes duck-fly-18 {
+  0% {
+    left: -55px;
+    top: 25vh;
+  }
+  50% {
+    left: 50%;
+    top: 61vh;
+  }
+  100% {
+    left: 105%;
+    top: 68vh;
+  }
+}
+@keyframes duck-fly-19 {
+  0% {
+    left: -55px;
+    top: 43vh;
+  }
+  50% {
+    left: 50%;
+    top: 5vh;
+  }
+  100% {
+    left: 105%;
+    top: 65vh;
+  }
+}
+@keyframes duck-fly-20 {
+  0% {
+    left: -55px;
+    top: 28vh;
+  }
+  50% {
+    left: 50%;
+    top: 11vh;
+  }
+  100% {
+    left: 105%;
+    top: 73vh;
+  }
+}
+@keyframes duck-fly-21 {
+  0% {
+    left: -55px;
+    top: 59vh;
+  }
+  50% {
+    left: 50%;
+    top: 24vh;
+  }
+  100% {
+    left: 105%;
+    top: 18vh;
+  }
+}
+@keyframes duck-fly-22 {
+  0% {
+    left: -55px;
+    top: 70vh;
+  }
+  50% {
+    left: 50%;
+    top: 45vh;
+  }
+  100% {
+    left: 105%;
+    top: 11vh;
+  }
+}
+@keyframes duck-fly-23 {
+  0% {
+    left: -55px;
+    top: 39vh;
+  }
+  50% {
+    left: 50%;
+    top: 65vh;
+  }
+  100% {
+    left: 105%;
+    top: 67vh;
+  }
+}
+@keyframes duck-fly-24 {
+  0% {
+    left: -55px;
+    top: 26vh;
+  }
+  50% {
+    left: 50%;
+    top: 38vh;
+  }
+  100% {
+    left: 105%;
+    top: 27vh;
+  }
+}
+body {
+  background-image: url(https://i.ytimg.com/vi/i9R8MqilMW8/maxresdefault.jpg);
+  background-position: center;
+  background-size: cover;
+    height: 100vh; 
+  counter-reset: count;
+  position: relative;
+  -webkit-user-select: none;
+}
+h1 {
+  position: absolute;
+  bottom: -16px;
+  left: 32px;
+}
+input[type="checkbox"] {
+  position: absolute;
+  visibility: hidden;
+  left: -999999px;
+}
+.duck-1 {
+  position: absolute;
+  animation: duck-fly-1 5s linear 1s 1 both;
+}
+.duck-2 {
+  position: absolute;
+  animation: duck-fly-2 5s linear 2s 1 both;
+}
+.duck-3 {
+  position: absolute;
+  animation: duck-fly-3 5s linear 3s 1 both;
+}
+.duck-4 {
+  position: absolute;
+  animation: duck-fly-4 5s linear 4s 1 both;
+}
+.duck-5 {
+  position: absolute;
+  animation: duck-fly-5 5s linear 5s 1 both;
+}
+.duck-6 {
+  position: absolute;
+  animation: duck-fly-6 5s linear 6s 1 both;
+}
+.duck-7 {
+  position: absolute;
+  animation: duck-fly-7 5s linear 7s 1 both;
+}
+.duck-8 {
+  position: absolute;
+  animation: duck-fly-8 5s linear 8s 1 both;
+}
+.duck-9 {
+  position: absolute;
+  animation: duck-fly-9 5s linear 9s 1 both;
+}
+.duck-10 {
+  position: absolute;
+  animation: duck-fly-10 5s linear 10s 1 both;
+}
+.duck-11 {
+  position: absolute;
+  animation: duck-fly-11 5s linear 11s 1 both;
+}
+.duck-12 {
+  position: absolute;
+  animation: duck-fly-12 5s linear 12s 1 both;
+}
+.duck-13 {
+  position: absolute;
+  animation: duck-fly-13 5s linear 13s 1 both;
+}
+.duck-14 {
+  position: absolute;
+  animation: duck-fly-14 5s linear 14s 1 both;
+}
+.duck-15 {
+  position: absolute;
+  animation: duck-fly-15 5s linear 15s 1 both;
+}
+.duck-16 {
+  position: absolute;
+  animation: duck-fly-16 5s linear 16s 1 both;
+}
+.duck-17 {
+  position: absolute;
+  animation: duck-fly-17 5s linear 17s 1 both;
+}
+.duck-18 {
+  position: absolute;
+  animation: duck-fly-18 5s linear 18s 1 both;
+}
+.duck-19 {
+  position: absolute;
+  animation: duck-fly-19 5s linear 19s 1 both;
+}
+.duck-20 {
+  position: absolute;
+  animation: duck-fly-20 5s linear 20s 1 both;
+}
+.duck-21 {
+  position: absolute;
+  animation: duck-fly-21 5s linear 21s 1 both;
+}
+.duck-22 {
+  position: absolute;
+  animation: duck-fly-22 5s linear 22s 1 both;
+}
+.duck-23 {
+  position: absolute;
+  animation: duck-fly-23 5s linear 23s 1 both;
+}
+.duck-24 {
+  position: absolute;
+  animation: duck-fly-24 5s linear 24s 1 both;
+}
+img {
+  width: 50px;
+  cursor: pointer;
+}
+input[type="checkbox"]:checked {
+  counter-increment: count;
+}
+input[type="checkbox"]:checked + img {
+  visibility: hidden;
+  display: none;
+}
+h1::after {
+  content: ' ' counter(count);
+}

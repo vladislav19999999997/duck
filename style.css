@@ -339,9 +339,12 @@ body {
   background-position: center;
   background-size: cover;
     height: 100vh; 
+    width: 100%;
   counter-reset: count;
   position: relative;
   -webkit-user-select: none;
+  cursor: crosshair;
+  overflow-x:hidden;
 }
 h1 {
   position: absolute;
@@ -367,7 +370,7 @@ input[type="checkbox"] {
 }
 .duck-4 {
   position: absolute;
-  animation: duck-fly-4 9s linear 4s 1 both;
+  animation: duck-fly-4 3s linear 4s 1 both;
 }
 .duck-5 {
   position: absolute;
@@ -375,11 +378,11 @@ input[type="checkbox"] {
 }
 .duck-6 {
   position: absolute;
-  animation: duck-fly-6 9s linear 6s 1 both;
+  animation: duck-fly-6 1s linear 6s 1 both;
 }
 .duck-7 {
   position: absolute;
-  animation: duck-fly-7 9s linear 7s 1 both;
+  animation: duck-fly-7 0.5s linear 7s 1 both;
 }
 .duck-8 {
   position: absolute;
@@ -443,7 +446,7 @@ input[type="checkbox"] {
 }
 .duck-23 {
   position: absolute;
-  animation: duck-fly-23 9s linear 23s 1 both;
+  animation: duck-fly-23 1s linear 23s 1 both;
 }
 .duck-24 {
   position: absolute;
@@ -451,14 +454,20 @@ input[type="checkbox"] {
 }
 img {
   width: 50px;
-  cursor: pointer;
+  cursor: crosshair;
+  -moz-user-select: none;
+-webkit-user-select: none;
+-ms-user-select: none;
+user-select: none;
 }
 input[type="checkbox"]:checked {
   counter-increment: count;
+  
 }
 input[type="checkbox"]:checked + img {
   visibility: hidden;
   display: none;
+
 }
 h1::after {
   content: ' ' counter(count);
